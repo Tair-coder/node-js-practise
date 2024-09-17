@@ -1,0 +1,16 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "TAIR",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
